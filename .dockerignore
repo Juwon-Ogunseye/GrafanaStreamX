@@ -1,0 +1,9 @@
+logs
+.git
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+json/
+json/
+
