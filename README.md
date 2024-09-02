@@ -104,6 +104,3 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 - **PostgreSQL**: As the relational database management system.
 - **Redis**: For message brokering.
 
----
-
-Feel free to modify this `README.md` as per your project’s specific needs. This document provides a comprehensive guide to setting up, running, and customizing your ETL and visualization pipeline with Grafana, Airflow, and PostgreSQL.
